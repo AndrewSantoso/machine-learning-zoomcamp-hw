@@ -1,1 +1,1 @@
-# machine-learning-zoomcamp-hw
+pip install numpy pandas scikit-learn seaborn jupyter
