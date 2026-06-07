@@ -1,1 +1,3 @@
 pip install numpy pandas scikit-learn seaborn jupyter
+
+jupyter notebook
